@@ -3,7 +3,7 @@ Escáner lista m3u
 
 
 git clone
-https://github.com/n3m3s1s22/Scanlistam3y
+https://github.com/n3m3s1s22/Scanlistam3y-
 
 cd Scanlistam3y
 
